@@ -1,0 +1,51 @@
+const testData = {
+  products: [
+    {
+      productID: 1,
+      name: 'iphone 12 pro max',
+      description: 'this is sample discription',
+      slug: 'iphone-12-pro-max',
+      category: 'phones',
+      price: 999,
+      stock: 10,
+    },
+    {
+      productID: 2,
+      name: 'iphone 12 pro',
+      description: 'this is sample discription',
+      slug: 'iphone-12-pro',
+      category: 'phones',
+      price: 899,
+      stock: 8,
+    },
+    {
+      productID: 3,
+      name: 'iphone 13 pro max',
+      description: 'this is sample discription',
+      slug: 'iphone-13-pro-max',
+      category: 'phones',
+      price: 120,
+      stock: 10,
+    },
+    {
+      productID: 4,
+      name: 'samsung note 10',
+      description: 'this is sample discription',
+      slug: 'samsung-note-10',
+      category: 'phones',
+      price: 750,
+      stock: 20,
+    },
+    {
+      productID: 5,
+      name: 'samsung note 11',
+      description: 'this is sample discription',
+      slug: 'samsung-note-11',
+      category: 'phones',
+      category: 'phones',
+      price: 859,
+      stock: 12,
+    },
+  ],
+};
+export default testData;
